@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/10
     wikipedia: http://en.wikipedia.org/wiki/J._M._Barrie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26999#Peter-Pan-in-Kensington-Gardens
 gutenberg_issued: '2008-10-24'
 gutenberg_type: Text
 identifiers:
